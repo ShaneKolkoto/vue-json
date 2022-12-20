@@ -5,14 +5,16 @@
             "name": "John",
             "surname": "Doe",
             "email": "johnD@gmail.com",
-            "password": "Password"
+            "password": "Password",
+            "img" : "https://th.bing.com/th/id/OIP.ndUvVNBOAufhyFDs1K2yswHaFj?w=220&h=180&c=7&r=0&o=5&pid=1.7"
         },
         {
             "id": 2,
             "name": "Marry",
             "surname": "Jane",
             "email": "marryJ@gmail.com",
-            "password": "Password"
+            "password": "Password",
+            "img" : "https://th.bing.com/th/id/OIP.DHlLXNZrM0J482cj7-6fiQHaKe?w=198&h=280&c=7&r=0&o=5&pid=1.7"
         }
     ],
     "products": [
